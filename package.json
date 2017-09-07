@@ -1,0 +1,23 @@
+{
+  "name": "toggle-braces",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "acorn": "^5.1.1",
+    "espree": "^3.5.0",
+    "estraverse": "^4.2.0",
+    "glob": "^7.1.2",
+    "global": "^4.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^4.5.0",
+    "eslint-config-google": "^0.9.1"
+  }
+}
